@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there, i'm Raretet
 
+Now i'm a sportprogrammer, but i really want to get in machine learning 
 <!--
 **Raretet11/Raretet11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
